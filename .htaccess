@@ -1,1 +1,1 @@
-redirect test2.html http://git.io/
+redirect /test2.html http://git.io/
